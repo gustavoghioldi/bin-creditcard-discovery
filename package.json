@@ -1,6 +1,6 @@
 {
   "name": "bin-creditcard-discovery",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gustavoghioldi/bin-creditcard-discovery/issues"
   },
-  "homepage": "https://github.com/gustavoghioldi/bin-creditcard-discovery#readme"
+  "homepage": "https://github.com/gustavoghioldi/bin-creditcard-discovery#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0"
+  }
 }
